@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.af2bca95.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.6d2df60b.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.6d2df60b.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.e269ab80.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.e269ab80.js.map",
+    "static/js/2.8bc7a083.chunk.js": "/React-Portfolio/static/js/2.8bc7a083.chunk.js",
+    "static/js/2.8bc7a083.chunk.js.map": "/React-Portfolio/static/js/2.8bc7a083.chunk.js.map",
+    "static/js/3.c6062f0d.chunk.js": "/React-Portfolio/static/js/3.c6062f0d.chunk.js",
+    "static/js/3.c6062f0d.chunk.js.map": "/React-Portfolio/static/js/3.c6062f0d.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.af2bca95.chunk.css.map": "/React-Portfolio/static/css/main.af2bca95.chunk.css.map",
+    "static/js/2.8bc7a083.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.8bc7a083.chunk.js.LICENSE.txt",
+    "static/media/Weather.a76c796d.PNG": "/React-Portfolio/static/media/Weather.a76c796d.PNG",
+    "static/media/essential_finance.534a889f.PNG": "/React-Portfolio/static/media/essential_finance.534a889f.PNG",
+    "static/media/liabrary.08655427.PNG": "/React-Portfolio/static/media/liabrary.08655427.PNG",
+    "static/media/App.css": "/React-Portfolio/static/media/paper.00f02a0b.jpg",
+    "static/media/profile.ec809e53.jpg": "/React-Portfolio/static/media/profile.ec809e53.jpg",
+    "static/media/workdayschld.d96c34a9.PNG": "/React-Portfolio/static/media/workdayschld.d96c34a9.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e269ab80.js",
+    "static/js/2.8bc7a083.chunk.js",
+    "static/css/main.af2bca95.chunk.css",
+    "static/js/main.6d2df60b.chunk.js"
+  ]
+}
