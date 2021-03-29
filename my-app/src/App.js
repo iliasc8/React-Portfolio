@@ -4,29 +4,29 @@ import Contact from "./pages/Contact";
 import Footer from "./components/Footer";
 import Portfolio from "./pages/Portfolio";
 import './App.css'
-import {BrowserRouter as Router, Switch, Route} from "react-router-dom"
+import {BrowserRouter as Router, HashRouter, Switch, Route} from "react-router-dom"
 
 function App() {
   return (
     <>
         <Navbar />
-    <Router>
-      <Switch>
+    {/* <HashRouter>
+      <Switch> */}
 
-        <Route exact path="/">
+        {/* <Route exact path="/"> */}
           <About />
-        </Route>
+        {/* </Route> */}
 
-        <Route exact path="/contact">
+        {/* <Route exact path="/contact"> */}
           <Contact />
-        </Route>
+        {/* </Route> */}
 
-        <Route exact path="/portfolio">
+        {/* <Route exact path="/portfolio"> */}
           <Portfolio />
-        </Route>
+        {/* </Route> */}
 
-      </Switch>
-    </Router>
+      {/* </Switch> */}
+    {/* </HashRouter> */}
         <Footer />
     </>
   );
