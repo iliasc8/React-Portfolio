@@ -10,13 +10,13 @@ function Navbar(){
         <div class="navbar-collapse justify-content-end collapse" id="navbarSupportedContent" >
           <ul class="navbar-nav">
             <li class="nav-item active">
-              <a class="nav-link active" aria-current="page" href="/contact">Contact </a>
+              <a class="nav-link active" aria-current="page" href="#contact">Contact </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/portfolio">Portfolio</a>
+              <a class="nav-link" href="#portfolio">Portfolio</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" href="/">About</a>
+              <a class="nav-link active" href="#">About</a>
             </li>
 
           </ul>

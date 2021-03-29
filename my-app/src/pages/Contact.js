@@ -1,6 +1,6 @@
 function Contact () {
     return(
-        <div class="container">
+        <div class="container" id="contact">
         <form>
         <div class="form-group mb-3">
             <label for="exampleFormControlInput1" class="form-label">Name</label>
