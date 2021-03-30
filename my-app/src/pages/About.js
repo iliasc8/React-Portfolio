@@ -1,8 +1,8 @@
 import React from "react";
 import profile from '../Assets/profile.jpg'
+import myinfo from '../Assets/myinfo.png'
 
 function About() {
-    let dogBackgroundImage = "https://i.imgur.com/qkdpN.jpg";
 
     return (
         <>
@@ -15,7 +15,7 @@ function About() {
             </div>
 
             <div id="git">
-                <a target="_blank" href="assets/myinfo.png">Resume</a>
+            <a target="_blank" href={myinfo} >Resume</a>
             </div>
             <a target="_blank" href="mailto: iliasc8@gmail.com"> <i id="gitt"
                     class="fab fa-google plus g icon"></i></a>
@@ -23,8 +23,8 @@ function About() {
                     class="fab fa-linkedin in icon"></i> </a>
             <a target="_blank" href="https://github.com/iliasc8"> <i id="gitt"
                     class="fab fa-github-square"></i> </a>
-                    {/* <li style="list-style-type: none !important; "> <i style="text-align: left; margin:0%;"
-                    class="fas fa-mobile">+1 416 999 9999</i></li> */}
+
+                       <li class="fas fa-mobile">+1 416 999 9999</li> 
             </div>
         </div>
 
